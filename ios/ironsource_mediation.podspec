@@ -24,4 +24,5 @@ Mobile sdk for IronSource
 
   # ironSource
   s.dependency 'IronSourceSDK','7.3.0'
+  s.static_framework = true
 end
